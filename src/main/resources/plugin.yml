@@ -3,7 +3,7 @@ version: '1.0'
 main: net.tpcraft.minecraft.onlineTime.OnlineTime
 api-version: '1.20'
 authors: [ TPCraft ]
-description: 玩家在线时长统计
+description: 记录玩家游戏时长
 website: https://www.tpcraft.net
 commands:
   ot:

@@ -1,0 +1,14 @@
+# 服务器名称
+server: "Server Name"
+
+# 自动保存时间 (秒)
+auto-save-time: 60
+
+# 上报设置 (未开发)
+report:
+  # 启用上报
+  enable: false
+  # 上报间隔 (秒)
+  interval: 60
+  # 上报地址
+  url: "http://localhost:8080"

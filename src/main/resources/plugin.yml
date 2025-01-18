@@ -1,0 +1,10 @@
+name: OnlineTime
+version: '1.0'
+main: net.tpcraft.minecraft.onlineTime.OnlineTime
+api-version: '1.20'
+authors: [ TPCraft ]
+description: 玩家在线时长统计
+website: https://www.tpcraft.net
+commands:
+  ot:
+    description: 查看自己游戏时长
